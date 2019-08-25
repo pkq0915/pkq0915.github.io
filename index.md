@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[看看坤坤](恶搞菜虚鲲)
+[看看坤坤](恶搞菜虚鲲.html)
 
 ### Markdown
 
